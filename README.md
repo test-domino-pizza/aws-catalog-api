@@ -7,3 +7,5 @@ Doing this for demo of sonar
 Updating the readme file
 
 Change in mnutes
+
+Verifying on dorametrics readme
