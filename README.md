@@ -13,3 +13,5 @@ Verifying on dorametrics readme
 Verify CLT domino
 
 Update the deployment frequency
+
+Updated
