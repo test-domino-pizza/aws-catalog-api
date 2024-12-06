@@ -22,4 +22,4 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
       - name: Set build start time
         run: echo "This is GitHub Actions Build"
-        run: sleep 200
+             sleep 200
