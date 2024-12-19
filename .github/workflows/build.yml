@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
       - name: Set build start time
-        run: sleep 380
+        run: sleep 360
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
         env:
